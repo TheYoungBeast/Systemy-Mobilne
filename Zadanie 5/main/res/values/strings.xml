@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zadanie-1</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="question1">Czy Dominik jest studentem PB?</string>
+    <string name="question2">Czy Warszawa jest stolicą Polski?</string>
+    <string name="question3">Czy Android 8 jest najnowszą wersją systemu?</string>
+    <string name="question4">Czy activity jest jednym z komponentów aplikacji Android?</string>
+    <string name="question5">Czy Kinga to imie żeńskie?</string>
+
+    <string name="correct_answer">Prawidłowa Odpowiedź</string>
+    <string name="incorrect_answer">Nieprawidłowa Odpowiedź</string>
+    
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona.</string>
+</resources>
