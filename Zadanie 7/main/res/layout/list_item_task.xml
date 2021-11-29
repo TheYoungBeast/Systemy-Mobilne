@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/task_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:paddingRight="@dimen/task_item_padding"
+        android:background="@color/colorIndigoLight"
+        tools:srcCompat="@drawable/ic_checkbox_pending" />
+
+    <TextView
+        android:id="@+id/task_item_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="TextView"
+        style="@style/TextFieldStyle"/>
+
+    <TextView
+        android:id="@+id/task_item_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="TextView"
+        style="@style/TextFieldStyle"/>
+
+</LinearLayout>
