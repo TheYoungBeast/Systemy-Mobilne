@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zadanie 10</string>
+    <string name="img_desc">Book cover</string>
+
+    <string name="menu_search">Search</string>
+    <string name="menu_clear">Clear search</string>
+
+    <string name="onFailureMsg">Something went wrong... Please try later!</string>
+</resources>
